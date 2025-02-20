@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\repositories\\historialaccionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\repositories\\historialaccionesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\models\\ordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\models\\ordencompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\models\\historialacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\models\\historialacciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\services\\historialaccionesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\services\\historialaccionesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\data\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\controllers\\historialaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\controllers\\historialaccionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\dtos\\historialrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\dtos\\historialrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\dtos\\historialaccionesget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\dtos\\historialaccionesget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\dtos\\requestclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\dtos\\requestclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\dtos\\productorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\dtos\\productorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\migrations\\20241202191515_population.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\migrations\\20241202191515_population.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|c:\\users\\lenovo\\onedrive\\escritorio\\utn\\ejercicios progra iii (clasroom)\\finalsegundapiii\\segundofinal\\segundofinal\\migrations\\20241202185142_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C786A4C8-20CE-4A38-8F7F-B12E7771935A}|SegundoFinal\\SegundoFinal.csproj|solutionrelative:segundofinal\\migrations\\20241202185142_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Models\\Categoria.cs",
+              "RelativeToolTip": "SegundoFinal\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:30:22.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Models\\Cliente.cs",
+              "RelativeToolTip": "SegundoFinal\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:39:11.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Models\\Producto.cs",
+              "RelativeToolTip": "SegundoFinal\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:33:34.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdenCompra.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Models\\OrdenCompra.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Models\\OrdenCompra.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Models\\OrdenCompra.cs",
+              "RelativeToolTip": "SegundoFinal\\Models\\OrdenCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:36:43.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Services\\ProductoService.cs",
+              "RelativeToolTip": "SegundoFinal\\Services\\ProductoService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:04:44.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HistorialAcciones.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Models\\HistorialAcciones.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Models\\HistorialAcciones.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Models\\HistorialAcciones.cs",
+              "RelativeToolTip": "SegundoFinal\\Models\\HistorialAcciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:41:12.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistorialAccionesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Repositories\\HistorialAccionesRepository.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Repositories\\HistorialAccionesRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Repositories\\HistorialAccionesRepository.cs",
+              "RelativeToolTip": "SegundoFinal\\Repositories\\HistorialAccionesRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:00:30.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HistorialAccionesService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Services\\HistorialAccionesService.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Services\\HistorialAccionesService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Services\\HistorialAccionesService.cs",
+              "RelativeToolTip": "SegundoFinal\\Services\\HistorialAccionesService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCoAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:01:34.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Services\\ClienteService.cs",
+              "RelativeToolTip": "SegundoFinal\\Services\\ClienteService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwBUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:34:07.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "SegundoFinal\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:54:30.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Program.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Program.cs",
+              "RelativeToolTip": "SegundoFinal\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:44:00.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "SegundoFinal\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\appsettings.json",
+              "RelativeToolTip": "SegundoFinal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T18:45:17.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContextDb.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Data\\ContextDb.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Data\\ContextDb.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Data\\ContextDb.cs",
+              "RelativeToolTip": "SegundoFinal\\Data\\ContextDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:46:13.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Response\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Response\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Response\\ApiResponse.cs",
+              "RelativeToolTip": "SegundoFinal\\Response\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:07:09.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "SegundoFinal\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAWwD0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:53:18.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "SegundoFinal\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:52:17.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "SegundoFinal\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:23:53.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HistorialAccionesController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Controllers\\HistorialAccionesController.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Controllers\\HistorialAccionesController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Controllers\\HistorialAccionesController.cs",
+              "RelativeToolTip": "SegundoFinal\\Controllers\\HistorialAccionesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA1wDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:00:51.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\DTOs\\ProductoDTO.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\DTOs\\ProductoDTO.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\DTOs\\ProductoDTO.cs",
+              "RelativeToolTip": "SegundoFinal\\DTOs\\ProductoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:57:06.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HistorialRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\DTOs\\HistorialRequest.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\DTOs\\HistorialRequest.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\DTOs\\HistorialRequest.cs",
+              "RelativeToolTip": "SegundoFinal\\DTOs\\HistorialRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:10:08.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HistorialAccionesGet.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\DTOs\\HistorialAccionesGet.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\DTOs\\HistorialAccionesGet.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\DTOs\\HistorialAccionesGet.cs",
+              "RelativeToolTip": "SegundoFinal\\DTOs\\HistorialAccionesGet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:24:47.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "SegundoFinal\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAYwCgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:23:31.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RequestClienteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\DTOs\\RequestClienteDTO.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\DTOs\\RequestClienteDTO.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\DTOs\\RequestClienteDTO.cs",
+              "RelativeToolTip": "SegundoFinal\\DTOs\\RequestClienteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:25:50.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\DTOs\\ProductoRequest.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\DTOs\\ProductoRequest.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\DTOs\\ProductoRequest.cs",
+              "RelativeToolTip": "SegundoFinal\\DTOs\\ProductoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:17:02.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241202191515_population.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Migrations\\20241202191515_population.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Migrations\\20241202191515_population.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Migrations\\20241202191515_population.cs",
+              "RelativeToolTip": "SegundoFinal\\Migrations\\20241202191515_population.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:15:16.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20241202185142_firstMigration.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Migrations\\20241202185142_firstMigration.cs",
+              "RelativeDocumentMoniker": "SegundoFinal\\Migrations\\20241202185142_firstMigration.cs",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive\\Escritorio\\UTN\\Ejercicios progra III (clasroom)\\FinalSegundaPiii\\SegundoFinal\\SegundoFinal\\Migrations\\20241202185142_firstMigration.cs",
+              "RelativeToolTip": "SegundoFinal\\Migrations\\20241202185142_firstMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T18:51:43.223Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

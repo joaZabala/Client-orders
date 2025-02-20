@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SegundoFinal.props" />
+</Project>
